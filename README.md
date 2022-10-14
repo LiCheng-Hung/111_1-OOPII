@@ -4,3 +4,5 @@
   作業二：hMap.java  
 ## W3 HW (2022/09/29)
   作業一：threadHW.java
+## W5 HW (2022/10/13)
+  作業一：Calculator.java
