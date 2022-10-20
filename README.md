@@ -6,3 +6,5 @@
   作業一：threadHW.java
 ## W5 HW (2022/10/13)
   作業一：Calculator.java
+## W6 HW (2022/10/20)
+  作業一：W
