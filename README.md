@@ -7,4 +7,6 @@
 ## W5 HW (2022/10/13)
   作業一：Calculator.java
 ## W6 HW (2022/10/20)
-  作業一：W
+  作業一：W6 HW
+## W8 HW (2022/11/03)
+  作業一：Mountain.java
